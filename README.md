@@ -4,4 +4,4 @@ fairvalue
 
 #### License
 
-mit
+mit# fairvalue

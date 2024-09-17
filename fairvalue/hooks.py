@@ -129,6 +129,11 @@ app_license = "mit"
 # 		"on_trash": "method"
 # 	}
 # }
+doc_events = {
+	"Employee Checkin": {
+		"validate": "fairvalue.custom.employeecheckin.validate",
+	},
+}
 
 # Scheduled Tasks
 # ---------------
